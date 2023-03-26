@@ -1,7 +1,7 @@
 
 # Data Structure algorithm Programmes
 
-<img src="https://img.freepik.com/premium-vector/structure-data-illustration-modern-style_146120-124.jpg?w=740" alt="image"/>
+<img src="https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1644826783284-3.%20Data%20Structures.png" alt="image"/>
 
 Hi All..👀
 
